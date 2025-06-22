@@ -1,4 +1,4 @@
-package org.example;
+package szuc.kqn;
 
 
 import java.util.Objects;
