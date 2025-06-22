@@ -1,6 +1,6 @@
 plugins {
     id("java")
-    id("maven-publish")
+
 }
 
 group = "szuc.kqn"
@@ -12,8 +12,4 @@ repositories {
 
 dependencies {
 
-}
-
-tasks.test {
-    useJUnitPlatform()
 }
